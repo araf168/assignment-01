@@ -49,6 +49,7 @@
     padding: 21px 24px;
     border-radius: 8px;
     margin-bottom: 45px;
+    text-decoration-line: none;
 }
 
 /* banner part ends */
@@ -73,18 +74,6 @@
     margin: 0 150px 0 150px;
 }
 
-/* .web-1 {
-    background: linear-gradient(90.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
-    border: 1px solid #ddd;
-    padding: 20px;
-    margin: 20px 0px;
-    text-align: left;
-    border-radius: 5px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    max-width: 546px;
-} */
 .web-1 {
     max-width: 846px;
     background: linear-gradient(90.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
@@ -141,7 +130,6 @@
     border-radius: 16px;
     background: rgba(0, 76, 232, 0.05);
     padding: 40px;
-    box-shadow: ;
 }
 
 .target-js {
@@ -149,7 +137,6 @@
     border-radius: 16px;
     background: rgba(255, 223, 0, 0.05);
     padding: 40px;
-    box-shadow: ;
 }
 
 .target-sec-button {
