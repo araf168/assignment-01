@@ -219,12 +219,12 @@
 
 .foot{
     display: flex;
-    justify-content: space-between;
+    gap: 850px;
     align-items: center;
     margin-top: 50px;
 }
 .footerr{
-    gap: 8px;
+    gap: 15px;
 }
 .foot-title{
     margin-left: 30px;
